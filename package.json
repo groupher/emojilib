@@ -1,5 +1,5 @@
 {
-  "name": "emojilib",
+  "name": "@groupher/emojilib",
   "version": "2.4.0",
   "description": "Emoji keyword library.",
   "main": "index.js",
