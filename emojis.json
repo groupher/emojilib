@@ -4657,5 +4657,11 @@
     "char": "🕐",
     "fitzpatrick_scale": false,
     "category": "symbols"
+  },
+  "white_check_mark": {
+    "keywords": ["green-square", "ok", "agree", "vote", "election", "answer", "tick"],
+    "char": "✅",
+    "fitzpatrick_scale": false,
+    "category": "symbols"
   }
 }
