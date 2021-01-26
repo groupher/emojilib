@@ -1,6 +1,6 @@
 {
   "name": "@groupher/emojilib",
-  "version": "2.4.3",
+  "version": "2.4.31",
   "description": "Emoji keyword library.",
   "main": "index.js",
   "files": [

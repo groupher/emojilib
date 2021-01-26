@@ -12,6 +12,12 @@
     "fitzpatrick_scale": false,
     "category": "people"
   },
+  "sob": {
+    "keywords": ["face", "cry", "tears", "sad", "upset", "depressed"],
+    "char": "😭",
+    "fitzpatrick_scale": false,
+    "category": "people"
+  },
   "grin": {
     "keywords": [
       "face",
